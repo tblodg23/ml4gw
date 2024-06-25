@@ -46,7 +46,7 @@ class Ringdown(torch.nn.Module):
             phase:
                 Initial phase of the ringdown waveform in rad
             inclination:
-                Inclination angle of the source in rad.
+                Inclination angle of the source in rad
             distance:
                 Distance to the source in Mpc.
         Returns:
